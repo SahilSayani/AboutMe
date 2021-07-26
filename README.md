@@ -6,10 +6,10 @@
 
 # Stats
 <a href="https://github.com/SahilSayani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilSayani&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilSayani&theme=vision-friendly-dark&show_icons=true" />
 </a>
 <a href="https://github.com/SahilSayani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSayani&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSayani&theme=vision-friendly-dark&show_icons=true" />
 </a>
 
 # Socials
