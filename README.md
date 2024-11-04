@@ -4,14 +4,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/72189595/127043381-61008b39-8b02-4df0-b1d8-ba4db66f41cf.png" />
 </a>
 
-# Stats
-<a href="https://github.com/SahilSayani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSayani&theme=vision-friendly-dark&show_icons=true" />
-</a>
-<a href="https://github.com/SahilSayani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilSayani&theme=vision-friendly-dark&show_icons=true" />
-</a>
-
 # Socials
 ![](https://komarev.com/ghpvc/?username=SahilSayani&color=blue)
 <p>
